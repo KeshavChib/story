@@ -1,1 +1,1 @@
-This is chapter 2 of my story about git.
+This is chapter 2 of my story about git. There is a alien invasion today on earth
